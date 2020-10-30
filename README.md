@@ -8,6 +8,7 @@ Feel free to drop by a message. :)
 - 🌱 I’m currently learning Deep learning.
 - 👯 I’m looking to collaborate on ML or Data Science projects.
 - 💬 Ask me about anything!
+- Email - akshatanandmallik@gmail.com
 
 
 [![Akshat Anand's github stats](https://github-readme-stats.vercel.app/api?username=cipheraxat)](https://github.com/cipheraxat/github-readme-stats)
