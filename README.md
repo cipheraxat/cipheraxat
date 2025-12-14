@@ -4,10 +4,10 @@
 
 ### 🧬 Biohacker | 💼 Software Engineer @ Barclays | 🤖 ML & Data Science Enthusiast
 
-[![Website](https://img.shields.io/badge/Portfolio-cipheraxat.github.io-blue?style=for-the-badge&logo=google-chrome)](https://cipheraxat.github.io/)
-[![Twitter](https://img.shields.io/badge/Twitter-@hey__akshat-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hey_akshat)
+[![Website](https://img.shields.io/badge/Portfolio-cipheraxat.github.io-blue? style=for-the-badge&logo=google-chrome)](https://cipheraxat.github.io/)
+[![Twitter](https://img.shields.io/badge/Twitter-@hey_akshat-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hey_akshat)
 [![Email](https://img.shields.io/badge/Email-akshatanandmallik@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshatanandmallik@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshat-anand)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshatanand1999)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=cipheraxat&color=blueviolet&style=for-the-badge)
 
@@ -24,20 +24,23 @@ I'm a passionate **Software Engineer** currently working at **Barclays**, where 
 - 🧬 Exploring biohacking and human performance optimization
 - 👯 Open to collaborate on **ML**, **Data Science**, and **Open Source** projects
 - 💬 Ask me about **Python**, **Machine Learning**, **Data Science**, or **Biohacking**
-- 📫 Reach me at: **akshatanandmallik@gmail.com**
-- ⚡ Fun fact: I optimize both code and biology!
+- 📫 Reach me at:  **akshatanandmallik@gmail.com**
+- ⚡ Fun fact: I optimize both code and biology! 
 
 ---
 
 ## 🛠️ Tech Stack & Skills
 
 ### Programming Languages
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Machine Learning & Data Science
+
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -46,13 +49,16 @@ I'm a passionate **Software Engineer** currently working at **Barclays**, where 
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
 ### Development Tools & Frameworks
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ### Cloud & Databases
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -85,14 +91,7 @@ I'm a passionate **Software Engineer** currently working at **Barclays**, where 
 
 ## 📈 Contribution Graph
 
-[![Akshat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cipheraxat&theme=react-dark&hide_border=true)](https://github.com/cipheraxat)
-
----
-
-## 🔥 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+[![Akshat's github activity graph](https://github-readme-activity-graph.vercel. app/graph?username=cipheraxat&theme=react-dark&hide_border=true)](https://github.com/cipheraxat)
 
 ---
 
@@ -100,7 +99,7 @@ I'm a passionate **Software Engineer** currently working at **Barclays**, where 
 
 **Software Engineer @ Barclays**
 - Building scalable solutions and working with cutting-edge technologies
-- Applying Java springboot techniques to solve real-world problems
+- Applying Java Spring Boot techniques to solve real-world problems
 - Collaborating with cross-functional teams on innovative projects
 
 ---
@@ -110,21 +109,21 @@ I'm a passionate **Software Engineer** currently working at **Barclays**, where 
 - 🧠 Advanced Deep Learning architectures
 - 🗣️ Natural Language Processing (NLP)
 - 🏅 Competitive Programming
-- Large Language Models
-- java Springboot
-- Python
+- 🤖 Large Language Models (LLMs)
+- ☕ Java Spring Boot Development
+- 🐍 Python Development
 - 🔬 Biohacking and performance optimization
 - 🌐 Contributing to open-source projects
 
 ---
 
-## 🤝 Let's Connect!
+## 🤝 Let's Connect! 
 
-I'm always excited to collaborate on interesting projects or discuss ideas over coffee! ☕
+I'm always excited to collaborate on interesting projects or discuss ideas over coffee!  ☕
 
 - 💼 Open to interesting opportunities and collaborations
 - 🌟 Looking to contribute to impactful ML/Data Science projects
-- 📧 Drop me an email for project discussions or just to say hi!
+- 📧 Drop me an email for project discussions or just to say hi! 
 
 <div align="center">
 
