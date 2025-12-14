@@ -100,7 +100,7 @@ I'm a passionate **Software Engineer** currently working at **Barclays**, where 
 
 **Software Engineer @ Barclays**
 - Building scalable solutions and working with cutting-edge technologies
-- Applying ML/AI techniques to solve real-world problems
+- Applying Java springboot techniques to solve real-world problems
 - Collaborating with cross-functional teams on innovative projects
 
 ---
@@ -110,6 +110,9 @@ I'm a passionate **Software Engineer** currently working at **Barclays**, where 
 - 🧠 Advanced Deep Learning architectures
 - 🗣️ Natural Language Processing (NLP)
 - 🏅 Competitive Programming
+- Large Language Models
+- java Springboot
+- Python
 - 🔬 Biohacking and performance optimization
 - 🌐 Contributing to open-source projects
 
