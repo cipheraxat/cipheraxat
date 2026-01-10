@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm Akshat Anand
 
-### Open source Contributor | 💼 Software Engineer @ Barclays | 🤖 Distribiuted Systems Enthusiast
+### Open source Contributor | 💼 Software Engineer @ Barclays | 🤖 Distributed Systems Enthusiast
 
 [![Website](https://img.shields.io/badge/Portfolio-cipheraxat.github.io-blue? style=for-the-badge&logo=google-chrome)](https://cipheraxat.github.io/)
 [![Twitter](https://img.shields.io/badge/Twitter-@hey_akshat-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hey_akshat)
