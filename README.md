@@ -1,17 +1,17 @@
-&lt;div align="center"&gt;
+<div align="center">
   
 # 👋 Hi, I'm Akshat Anand
 
-### 🤖 Biohacker | 💻 Software Engineer @ Barclays | 🧠 ML & Data Science Enthusiast
+### Open source Contributor | 💼 Software Engineer @ Barclays | 🤖 Distribiuted Systems Enthusiast
 
-[![Website](https://img.shields.io/badge/Portfolio-cipheraxat.github.io-blue?%20style=for-the-badge&logo=google-chrome)](https://cipheraxat.github.io/)
+[![Website](https://img.shields.io/badge/Portfolio-cipheraxat.github.io-blue? style=for-the-badge&logo=google-chrome)](https://cipheraxat.github.io/)
 [![Twitter](https://img.shields.io/badge/Twitter-@hey_akshat-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hey_akshat)
 [![Email](https://img.shields.io/badge/Email-akshatanandmallik@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshatanandmallik@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshatanand1999/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshatanand1999)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=cipheraxat&color=blueviolet&style=for-the-badge)
 
-&lt;/div&gt;
+</div>
 
 ---
 
@@ -19,12 +19,11 @@
 
 I'm a passionate **Software Engineer** currently working at **Barclays**, where I leverage technology to build innovative solutions. With a strong foundation in **Data Science**, **Machine Learning**, and **Software Development**, I'm constantly exploring the intersection of technology and human optimization through **biohacking**.
 
-- 💼 Currently working on ML/AI projects and software development at Barclays
-- 🔬 Deep diving into **Deep Learning**, **NLP**, **ML Ops**, and **Competitive Programming**
+- 🔭 Currently working on ML/AI projects and software development at Barclays
+- 🌱 Deep diving into **Deep Learning**, **NLP**, **MLOps**, and **Competitive Programming**
 - 🧬 Exploring biohacking and human performance optimization
-- 🤝 Open to collaborate on **ML**, **Data Science**, and **Open Source** projects
-- ❓ Ask me about **Python**, **Machine Learning**, **Data Science**, or **Biohacking**
-- 📧 Reach me at: **akshatanandmallik@gmail.com**
+- 👯 Open to collaborate on **Software/Packages**, **Data Science**, and **Open Source** projects
+- 📫 Reach me at:  **akshatanandmallik@gmail.com**
 - ⚡ Fun fact: I optimize both code and biology! 
 
 ---
@@ -67,7 +66,7 @@ I'm a passionate **Software Engineer** currently working at **Barclays**, where 
 
 ## 📊 GitHub Statistics
 
-&lt;div align="center"&gt;
+<div align="center">
   
 ![Akshat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cipheraxat&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
@@ -75,73 +74,23 @@ I'm a passionate **Software Engineer** currently working at **Barclays**, where 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cipheraxat&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
-&lt;/div&gt;
+</div>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-&lt;div align="center"&gt;
+<div align="center">
   
 ![Trophies](https://github-profile-trophy.vercel.app/?username=cipheraxat&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)
 
-&lt;/div&gt;
+</div>
 
 ---
 
 ## 📈 Contribution Graph
 
-[![Akshat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cipheraxat&theme=react-dark&hide_border=true)](https://github.com/cipheraxat)
-
----
-
-## 🏗️ Featured Projects
-
-### 🔬 [Survival-Analysis](https://github.com/cipheraxat/Survival-Analysis)
-A comprehensive project on survival analysis techniques, including Kaplan-Meier estimates, hazard functions, Cox proportional hazards model, and interactive visualizations with Plotly Dash. Includes detailed blog posts explaining each concept.
-
-**Tech Stack:** Python, Lifelines, Plotly, Pandas, NumPy
-
-### 📈 [Customer-Lifetime-Value](https://github.com/cipheraxat/Customer-Lifetime-Value)
-Analysis and prediction of customer lifetime value (CLV) using machine learning models. Explores various CLV calculation methods and predictive modeling.
-
-**Tech Stack:** Python, Scikit-learn, Pandas, Matplotlib
-
-### 🤖 [algo-trading](https://github.com/cipheraxat/algo-trading)
-Algorithmic trading strategies and backtesting framework. Includes data fetching, strategy implementation, and performance evaluation.
-
-**Tech Stack:** Python, Pandas, NumPy, TA-Lib (assumed), Backtrader or similar
-
-### 📚 [Survival-Analysis](https://github.com/cipheraxat/Survival-Analysis) (continued)
-- Implemented Kaplan-Meier survival curves
-- Built interactive dashboards for exploratory data analysis
-- Created detailed explanations and tutorials
-
-### 🔧 Other Notable Repositories
-- **[github-slideshow](https://github.com/cipheraxat/github-slideshow)**: GitHub learning project
-- **[git_test](https://github.com/cipheraxat/git_test)**: Basic Git practice repository
-
----
-
-## 🌟 Recent Contributions
-
-I've actively contributed to various open-source projects, focusing on data science, machine learning, and software development. Here are some recent highlights:
-
-### 🐍 DigitalOcean Projects
-- **[digitalocean/gradient-python](https://github.com/digitalocean/gradient-python)**: Added `wait_until_ready()` method for agent deployment polling ([PR #56](https://github.com/digitalocean/gradient-python/pull/56))
-- **[digitalocean/gradient-typescript](https://github.com/digitalocean/gradient-typescript)**: Added `waitForCompletion` helper for indexing jobs ([PR #19](https://github.com/digitalocean/gradient-typescript/pull/19))
-- **[digitalocean/gradient-python](https://github.com/digitalocean/gradient-python)**: Added `wait_until_database_online` helper ([PR #70](https://github.com/digitalocean/gradient-python/pull/70))
-
-### 🚀 Other Contributions
-- **[apple/pkl](https://github.com/apple/pkl)**: Fixed super method call inside let expression ([PR #1383](https://github.com/apple/pkl/pull/1383))
-- **[apache/beam](https://github.com/apache/beam)**: Added documentation and examples for SQL calcite_connection ([PR #36684](https://github.com/apache/beam/pull/36684))
-- **[digitalocean/pydo](https://github.com/digitalocean/pydo)**: Documented `registry_enabled` limitation and added tests ([PR #580](https://github.com/digitalocean/pydo/pull/580))
-- **[digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io)**: Resolved TODO comments ([PR #509](https://github.com/digitalocean/nginxconfig.io/pull/509))
-- **[digitalocean/action-doctl](https://github.com/digitalocean/action-doctl)**: Fixed token validation hanging by adding timeout ([PR #100](https://github.com/digitalocean/action-doctl/pull/100))
-
-### 📝 Issues and Enhancements
-- Contributed to **[Data-Science-Community-SRM/Algorithms-for-Programming](https://github.com/Data-Science-Community-SRM/Algorithms-for-Programming)**: Added notes and questions for algorithms like Insertion Sort, Binary Search, Merge Sort, Quick Sort, Asymptotic notation, BFS, Graphs, etc.
-- Participated in Hacktoberfest 2020 with multiple contributions
+[![Akshat's github activity graph](https://github-readme-activity-graph.vercel. app/graph?username=cipheraxat&theme=react-dark&hide_border=true)](https://github.com/cipheraxat)
 
 ---
 
@@ -156,32 +105,29 @@ I've actively contributed to various open-source projects, focusing on data scie
 
 ## 🎯 Current Focus
 
-- 🔬 Advanced Deep Learning architectures
-- 🤖 Natural Language Processing (NLP)
-- 🏆 Competitive Programming
-- 🧠 Large Language Models (LLMs)
+- 🧠 Advanced Deep Learning architectures
+- 🗣️ Natural Language Processing (NLP)
+- 🏅 Competitive Programming
+- 🤖 Large Language Models (LLMs)
 - ☕ Java Spring Boot Development
 - 🐍 Python Development
-- 🧬 Biohacking and performance optimization
-- 🤝 Contributing to open-source projects
+- 🔬 Biohacking and performance optimization
+- 🌐 Contributing to open-source projects
 
 ---
 
-## 🤝 Let's Connect!
+## 🤝 Let's Connect! 
 
-I'm always excited to collaborate on interesting projects or discuss ideas over coffee! ☕
+I'm always excited to collaborate on interesting projects or discuss ideas over coffee!  ☕
 
-- 📧 Open to interesting opportunities and collaborations
-- 🔍 Looking to contribute to impactful ML/Data Science projects
-- ✉️ Drop me an email for project discussions or just to say hi! 
+- 💼 Open to interesting opportunities and collaborations
+- 🌟 Looking to contribute to impactful ML/Data Science projects
+- 📧 Drop me an email for project discussions or just to say hi! 
 
-&lt;div align="center"&gt;
+<div align="center">
 
-### 💡 From [cipheraxat](https://github.com/cipheraxat) | 70+ Repositories | 89+ Followers
+### ⭐ From [cipheraxat](https://github.com/cipheraxat) | 70+ Repositories | 89+ Followers
 
-**"Optimizing code by day, optimizing life by night"** 🌟
+**"Optimizing code by day, optimizing life by night"** 🚀
 
-&lt;/div&gt;
-
-Current Date and Time (UTC - YYYY-MM-DD HH:MM:SS formatted): 2026-01-10 07:28:12
-Current User's Login: cipheraxat
+</div>
