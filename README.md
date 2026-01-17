@@ -21,10 +21,10 @@ I'm a passionate **Software Engineer** currently working at **Barclays**, where 
 
 - 🔭 Currently working on ML/AI projects and software development at Barclays
 - 🌱 Deep diving into **Deep Learning**, **NLP**, **MLOps**, and **Competitive Programming**
-- 🧬 Exploring biohacking and human performance optimization
+- 🧬 I love running marathons, weight training.
 - 👯 Open to collaborate on **Software/Packages**, **Data Science**, and **Open Source** projects
 - 📫 Reach me at:  **akshatanandmallik@gmail.com**
-- ⚡ Fun fact: I optimize both code and biology! 
+- ⚡ Fun fact: I optimize both code and run marathons! 
 
 ---
 
