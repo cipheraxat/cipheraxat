@@ -24,7 +24,7 @@ I'm a passionate **Software Engineer** currently working at **Barclays**, where 
 - 🧬 I love running marathons, weight training.
 - 👯 Open to collaborate on **Software/Packages**, **Data Science**, and **Open Source** projects
 - 📫 Reach me at:  **akshatanandmallik@gmail.com**
-- ⚡ Fun fact: I optimize both code and run marathons! 
+- ⚡ Fun fact: I optimize code and run marathons! 
 
 ---
 
