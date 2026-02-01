@@ -17,7 +17,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Software Engineer** currently working at **Barclays**, where I leverage technology to build innovative solutions. With a strong foundation in **Data Science**, **Machine Learning**, and **Software Development**, I'm constantly exploring the intersection of technology and human optimization through **biohacking**.
+I'm a passionate **Software Engineer** currently working at **Barclays**, where I leverage technology to build innovative solutions. With a strong foundation in **Data Science**, **Machine Learning**, and **Software Development**.
 
 - 🔭 Currently working on ML/AI projects and software development at Barclays
 - 🌱 Deep diving into **Deep Learning**, **NLP**, **MLOps**, and **Competitive Programming**
@@ -62,29 +62,6 @@ I'm a passionate **Software Engineer** currently working at **Barclays**, where 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-![Akshat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cipheraxat&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cipheraxat&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cipheraxat&layout=compact&theme=radical&hide_border=true&langs_count=8)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-![Trophies](https://github-profile-trophy.vercel.app/?username=cipheraxat&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)
-
-</div>
 
 ---
 
@@ -121,13 +98,12 @@ I'm a passionate **Software Engineer** currently working at **Barclays**, where 
 I'm always excited to collaborate on interesting projects or discuss ideas over coffee!  ☕
 
 - 💼 Open to interesting opportunities and collaborations
-- 🌟 Looking to contribute to impactful ML/Data Science projects
+- 🌟 Looking to contribute to impactful ML/Data Science/Java projects
 - 📧 Drop me an email for project discussions or just to say hi! 
 
 <div align="center">
 
 ### ⭐ From [cipheraxat](https://github.com/cipheraxat) | 70+ Repositories | 89+ Followers
 
-**"Optimizing code by day, optimizing life by night"** 🚀
 
 </div>
