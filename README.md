@@ -4,7 +4,6 @@
 
 ### Open source Contributor | 💼 Software Engineer @ Barclays | 🤖 Distributed Systems Enthusiast
 
-[![Website](https://img.shields.io/badge/Portfolio-cipheraxat.github.io-blue? style=for-the-badge&logo=google-chrome)](https://cipheraxat.github.io/)
 [![Twitter](https://img.shields.io/badge/Twitter-@hey_akshat-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hey_akshat)
 [![Email](https://img.shields.io/badge/Email-akshatanandmallik@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshatanandmallik@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshatanand1999)
@@ -60,15 +59,6 @@ I'm a passionate **Software Engineer** currently working at **Barclays**, where 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-
----
-
-## 📈 Contribution Graph
-
-[![Akshat's github activity graph](https://github-readme-activity-graph.vercel. app/graph?username=cipheraxat&theme=react-dark&hide_border=true)](https://github.com/cipheraxat)
-
----
 
 ## 💼 Professional Experience
 
