@@ -9,9 +9,10 @@ This repository implements the **LLM Wiki** pattern: a persistent, compounding p
 ```
 raw/          # Immutable source documents (articles, papers, notes, data)
 raw/assets/   # Downloaded images and attachments
-wiki/         # LLM-generated markdown files (you own this)
-wiki/index.md # Master content catalog — update on every ingest
-wiki/log.md   # Append-only chronological log — append on every operation
+wiki/             # LLM-generated markdown files (you own this)
+wiki/analyses/    # Analysis and Q&A pages produced from queries
+wiki/index.md     # Master content catalog — update on every ingest
+wiki/log.md       # Append-only chronological log — append on every operation
 AGENTS.md     # This file — the schema and workflow guide
 ```
 

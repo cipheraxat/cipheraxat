@@ -6,7 +6,7 @@ Drop source documents here for ingestion into the wiki. This directory is **immu
 
 - Markdown (`.md`) — articles clipped with Obsidian Web Clipper or written by hand
 - Plain text (`.txt`) — notes, transcripts, extracts
-- PDF — papers, reports (LLM will read text content)
+- PDF (`.pdf`) — papers, reports (LLM will read text content)
 - Images (`.png`, `.jpg`) — charts, screenshots, figures (place in `assets/`)
 
 ## assets/
