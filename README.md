@@ -1,3 +1,5 @@
+<img align="right" alt="cute coding cartoon" width="300" src="https://raw.githubusercontent.com/cipheraxat/cipheraxat/master/assets/coding-buddy.gif" />
+
 # Akshat Anand
 
 Software engineer at **Barclays**. I build backend systems, AI agents, and contribute to open source when I can.
