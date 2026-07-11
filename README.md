@@ -1,6 +1,6 @@
 <div align="center">
 
-<video src="./assets/coding-buddy.mp4" width="300" autoplay loop muted playsinline></video>
+https://github.com/cipheraxat/cipheraxat/raw/master/assets/coding-buddy.mp4
 
 </div>
 
