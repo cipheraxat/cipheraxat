@@ -1,4 +1,4 @@
-<img align="right" alt="cute coding cartoon" width="300" src="https://raw.githubusercontent.com/cipheraxat/cipheraxat/master/assets/coding-buddy.gif" />
+<img align="right" alt="Pepe drinking coffee and coding" width="280" src="https://raw.githubusercontent.com/cipheraxat/cipheraxat/master/assets/coding-buddy.gif" />
 
 # Akshat Anand
 
