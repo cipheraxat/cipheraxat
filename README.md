@@ -1,6 +1,6 @@
 <div align="center">
 
-<img alt="Pepe drinking coffee and coding" width="300" src="./assets/pepe-sticker.png" />
+<img alt="Pepe drinking coffee and coding" width="300" src="./assets/pepe-goggles.png" />
 
 </div>
 
