@@ -12,8 +12,8 @@ Software engineer at **Barclays**. I build backend systems, AI agents, and contr
 
 ### Now
 
-- Shipping AI / ML systems at work
-- Contributing to [VS Code](https://github.com/microsoft/vscode)
+- Shipping AI and data intensive systems at work
+- Contributing to Opensource repos.
 - Building agents, RAG pipelines, and distributed services on the side
 
 ### Featured
