@@ -1,25 +1,36 @@
-<div align="center">
-  
-# 👋 Hi, I'm Akshat Anand
+# Akshat Anand
 
-### Open source Contributor | 💼 Software Engineer @ Barclays | 🤖 Distributed Systems Enthusiast
+Software engineer at **Barclays**. I build backend systems, AI agents, and contribute to open source when I can.
 
-[![Twitter](https://img.shields.io/badge/Twitter-@hey_akshat-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hey_akshat)
-[![Email](https://img.shields.io/badge/Email-akshatanandmallik@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshatanandmallik@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshatanand1999)
+[Website](https://cipheraxat.github.io) · [LinkedIn](https://www.linkedin.com/in/akshatanand1999) · [Twitter](https://twitter.com/hey_akshat) · [Email](mailto:akshatanandmallik@gmail.com)
 
-
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,go,python,ts,postgres,redis,kafka,docker,aws" alt="Tech stack" />
+</p>
 
 ---
 
-## 🚀 About Me
+### Now
 
-I'm a passionate **Software Engineer** currently working at **Barclays**, where I leverage technology to build innovative solutions. With a strong foundation in **Data Science**, **Machine Learning**, and **Software Development**.
+- Shipping AI / ML systems at work
+- Contributing to [VS Code](https://github.com/microsoft/vscode)
+- Building agents, RAG pipelines, and distributed services on the side
 
-- 🔭 Currently working on ML/AI projects and software development at Barclays
-- 🌱 Deep diving into **Deep Learning**, **NLP**, **MLOps**, and **Competitive Programming**
-- 🧬 I love running marathons, weight training.
-- 👯 Open to collaborate on **Software/Packages**, **Data Science**, and **Open Source** projects
-- 📫 Reach me at:  **akshatanandmallik@gmail.com**
-- ⚡ Fun fact: I optimize code and run marathons! 
+### Featured
+
+| Project | What it is |
+| --- | --- |
+| [building-ai-agents](https://github.com/cipheraxat/building-ai-agents) | Production AI agents — Python + Java, side by side |
+| [multi-tenant-rag-api](https://github.com/cipheraxat/multi-tenant-rag-api) | Multi-tenant RAG API with isolation & eval |
+| [policyguard](https://github.com/cipheraxat/policyguard) | Compliance RAG + PII redaction gateway |
+| [a2a-incident-agents](https://github.com/cipheraxat/a2a-incident-agents) | Diagnosis + remediation agents for incidents |
+| [instrumentation-service](https://github.com/cipheraxat/instrumentation-service) | Go telemetry service — gRPC, Kafka, Prometheus |
+| [usage-billing-pipeline](https://github.com/cipheraxat/usage-billing-pipeline) | Kafka billing pipeline with outbox & DLQ |
+
+### Open source
+
+Contributions merged into [microsoft/vscode](https://github.com/microsoft/vscode), [apple/pkl](https://github.com/apple/pkl), and [digitalocean/gradient-python](https://github.com/digitalocean/gradient-python).
+
+### Outside work
+
+Marathons, weight training, and too many terminal tabs.
