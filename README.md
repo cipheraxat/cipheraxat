@@ -1,6 +1,6 @@
 <div align="center">
 
-<img alt="Pepe drinking coffee and coding" width="300" src="./assets/pepe-goggles.png" />
+<video src="./assets/coding-buddy.mp4" width="300" autoplay loop muted playsinline></video>
 
 </div>
 
