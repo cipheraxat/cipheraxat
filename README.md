@@ -1,5 +1,7 @@
 <div align="center">
-  <img alt="Pepe drinking coffee and coding" width="280" src="https://raw.githubusercontent.com/cipheraxat/cipheraxat/master/assets/coding-buddy.gif?raw=1" />
+
+<img alt="Pepe drinking coffee and coding" width="300" src="./assets/pepe-sticker.png" />
+
 </div>
 
 # Akshat Anand
