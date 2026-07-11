@@ -1,7 +1,7 @@
 <div align="center">
 
-https://github.com/cipheraxat/cipheraxat/raw/master/assets/coding-buddy.mp4
 
+<img alt="Pepe drinking coffee and coding" width="300" src="./assets/pepe-animated.gif" />
 </div>
 
 # Akshat Anand
