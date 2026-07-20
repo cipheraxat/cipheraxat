@@ -24,7 +24,7 @@ Software engineer at **Barclays**. I build backend systems, AI agents, and contr
 
 ### Open source
 
-Contributions merged into [microsoft/vscode](https://github.com/microsoft/vscode), [apple/pkl](https://github.com/apple/pkl), and [digitalocean/gradient-python](https://github.com/digitalocean/gradient-python).
+Contributions merged into [microsoft/vscode](https://github.com/microsoft/vscode),[microsoft/playwright](https://github.com/microsoft/playwright), [apple/pkl](https://github.com/apple/pkl), and [digitalocean/gradient-python](https://github.com/digitalocean/gradient-python).
 
 ### Outside work
 
