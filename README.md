@@ -1,7 +1,7 @@
 <div align="center">
 
-
 <img alt="Pepe drinking coffee and coding" width="300" src="./assets/pepe-animated.gif" />
+
 </div>
 
 # Akshat Anand
@@ -18,13 +18,19 @@ Software engineer at **Barclays**. I build backend systems, AI agents, and contr
 
 ### Now
 
-- Shipping AI and data intensive systems at work
-- Contributing to Opensource repos.
+- Shipping AI and data-intensive systems at work
+- Deep in [VS Code](https://github.com/microsoft/vscode) contributions (chat, Agents window, editor UX)
 - Building agents, RAG pipelines, and distributed services on the side
 
 ### Open source
 
-Contributions merged into [microsoft/vscode](https://github.com/microsoft/vscode),[microsoft/playwright](https://github.com/microsoft/playwright), [apple/pkl](https://github.com/apple/pkl), and [digitalocean/gradient-python](https://github.com/digitalocean/gradient-python).
+Contributions merged into:
+
+- [microsoft/vscode](https://github.com/microsoft/vscode)
+- [microsoft/playwright](https://github.com/microsoft/playwright)
+- [appwrite/appwrite](https://github.com/appwrite/appwrite)
+- [apple/pkl](https://github.com/apple/pkl)
+- [digitalocean/gradient-python](https://github.com/digitalocean/gradient-python)
 
 ### Outside work
 
