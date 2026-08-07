@@ -24,6 +24,12 @@ Software engineer at **Barclays**. I build backend systems, AI agents, and contr
 
 ### Open source
 
+**Kubernetes**
+
+- [#140948](https://github.com/kubernetes/kubernetes/pull/140948) — lifecycle: restrict EvictionRequest responder status on first sync
+- [#140549](https://github.com/kubernetes/kubernetes/pull/140549) — apimachinery: transcode BOM'd UTF-16 YAML to UTF-8
+- [#140447](https://github.com/kubernetes/kubernetes/pull/140447) — Rename `endpoint_slice_controller_changes` to add `_total` suffix
+
 Contributions merged into:
 
 - [microsoft/vscode](https://github.com/microsoft/vscode)
