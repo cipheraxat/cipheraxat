@@ -22,9 +22,7 @@ Software engineer at **Barclays**. I build backend systems, AI agents, and contr
 - Deep in [VS Code](https://github.com/microsoft/vscode) contributions (chat, Agents window, editor UX)
 - Building agents, RAG pipelines, and distributed services on the side
 
-### Open source
-
-**Merged**
+### Open source contributions
 
 - [vscode#325291](https://github.com/microsoft/vscode/pull/325291) — Fix Modern UI editor tab decoration color on full label
 - [playwright#41845](https://github.com/microsoft/playwright/pull/41845) — Pass client name on token-bypass connect
@@ -32,11 +30,6 @@ Software engineer at **Barclays**. I build backend systems, AI agents, and contr
 - [pkl#1383](https://github.com/apple/pkl/pull/1383) — Fix super method call inside `let` expression
 - [gradient-python#56](https://github.com/digitalocean/gradient-python/pull/56) — Add `wait_until_ready()` for agent deployment polling
 
-**Kubernetes** — open
-
-- [#140948](https://github.com/kubernetes/kubernetes/pull/140948) — lifecycle: restrict EvictionRequest responder status on first sync
-- [#140549](https://github.com/kubernetes/kubernetes/pull/140549) — apimachinery: transcode BOM'd UTF-16 YAML to UTF-8
-- [#140447](https://github.com/kubernetes/kubernetes/pull/140447) — Rename `endpoint_slice_controller_changes` to add `_total` suffix
 
 ### Outside work
 
