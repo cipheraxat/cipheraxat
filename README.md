@@ -24,19 +24,19 @@ Software engineer at **Barclays**. I build backend systems, AI agents, and contr
 
 ### Open source
 
-**Kubernetes**
+**Merged**
+
+- [vscode#325291](https://github.com/microsoft/vscode/pull/325291) — Fix Modern UI editor tab decoration color on full label
+- [playwright#41845](https://github.com/microsoft/playwright/pull/41845) — Pass client name on token-bypass connect
+- [appwrite#12891](https://github.com/appwrite/appwrite/pull/12891) — Return ISO8601 session expire from `updateSession`
+- [pkl#1383](https://github.com/apple/pkl/pull/1383) — Fix super method call inside `let` expression
+- [gradient-python#56](https://github.com/digitalocean/gradient-python/pull/56) — Add `wait_until_ready()` for agent deployment polling
+
+**Kubernetes** — open
 
 - [#140948](https://github.com/kubernetes/kubernetes/pull/140948) — lifecycle: restrict EvictionRequest responder status on first sync
 - [#140549](https://github.com/kubernetes/kubernetes/pull/140549) — apimachinery: transcode BOM'd UTF-16 YAML to UTF-8
 - [#140447](https://github.com/kubernetes/kubernetes/pull/140447) — Rename `endpoint_slice_controller_changes` to add `_total` suffix
-
-Contributions merged into:
-
-- [microsoft/vscode](https://github.com/microsoft/vscode)
-- [microsoft/playwright](https://github.com/microsoft/playwright)
-- [appwrite/appwrite](https://github.com/appwrite/appwrite)
-- [apple/pkl](https://github.com/apple/pkl)
-- [digitalocean/gradient-python](https://github.com/digitalocean/gradient-python)
 
 ### Outside work
 
