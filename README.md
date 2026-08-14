@@ -21,7 +21,6 @@
 - Shipping production backends and data-intensive systems at Barclays
 - Contributing heavily to [microsoft/vscode](https://github.com/microsoft/vscode) — chat, Agents window, Modern UI, editor UX (~28 PRs)
 - Building RAG gateways, multi-agent systems, and Go/Java distributed pipelines on the side
-- Learning new AI stuffs daily.
 
 ### Expertise
 
@@ -44,15 +43,10 @@
 ### Featured projects
 
 - [**policyguard**](https://github.com/cipheraxat/policyguard) — Compliance RAG + PII redaction gateway (FastAPI, pgvector)
-- [**building-ai-agents**](https://github.com/cipheraxat/building-ai-agents) — 14-skill curriculum for production AI agents (Python + Java)
-- [**llm-support-agent**](https://github.com/cipheraxat/llm-support-agent) — ReAct support agent with LangGraph, tools, and guardrails
-- [**multi-tenant-rag-api**](https://github.com/cipheraxat/multi-tenant-rag-api) — Multi-tenant RAG API with isolation and eval
-- [**a2a-incident-agents**](https://github.com/cipheraxat/a2a-incident-agents) — Diagnosis + remediation agents in Spring Boot (A2A-style)
+- [**a2a-incident-agents**](https://github.com/cipheraxat/a2a-incident-agents) — Diagnosis + remediation agents in Spring Boot (A2A-style, approval gates)
 - [**usage-billing-pipeline**](https://github.com/cipheraxat/usage-billing-pipeline) — Go billing pipeline: Kafka, Redis dedup, outbox, DLQ, Prometheus
 - [**instrumentation-service**](https://github.com/cipheraxat/instrumentation-service) — Go telemetry ingestion (gRPC/REST, Kafka, PostgreSQL)
-- [**spring-boot-url-shortener**](https://github.com/cipheraxat/spring-boot-url-shortener) — URL shortener with Redis + analytics
 - [**CopilotPulse**](https://github.com/cipheraxat/CopilotPulse) — Local-first VS Code extension for Copilot Chat usage analytics
-
 
 ### Outside work
 
