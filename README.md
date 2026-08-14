@@ -21,7 +21,7 @@
 - Shipping production backends and data-intensive systems at Barclays
 - Contributing heavily to [microsoft/vscode](https://github.com/microsoft/vscode) — chat, Agents window, Modern UI, editor UX (~28 PRs)
 - Building RAG gateways, multi-agent systems, and Go/Java distributed pipelines on the side
-- Studying for AWS Cloud Practitioner
+- 
 
 ### Expertise
 
@@ -31,6 +31,15 @@
 | **AI / Agents** | RAG (pgvector, ChromaDB), LangGraph, tool-calling agents, PII/compliance gateways |
 | **Distributed systems** | Telemetry ingestion, billing/outbox patterns, notification fan-out, observability |
 | **Open source** | Deep product contributions (VS Code UX), plus Playwright, Appwrite, Kubernetes, Airflow |
+
+### Open source (merged)
+
+- [vscode#330754](https://github.com/microsoft/vscode/pull/330754) — Modern UI tabs: reserve close-button column so it doesn't overlay filename
+- [vscode#325291](https://github.com/microsoft/vscode/pull/325291) — Fix Modern UI editor tab decoration color on full label
+- [playwright#41845](https://github.com/microsoft/playwright/pull/41845) — Pass client name on token-bypass connect
+- [appwrite#12891](https://github.com/appwrite/appwrite/pull/12891) — Return ISO8601 session expire from `updateSession`
+- [pkl#1383](https://github.com/apple/pkl/pull/1383) — Fix super method call inside `let` expression
+- [gradient-python#56](https://github.com/digitalocean/gradient-python/pull/56) — Add `wait_until_ready()` for agent deployment polling
 
 ### Featured projects
 
@@ -44,16 +53,6 @@
 - [**spring-boot-url-shortener**](https://github.com/cipheraxat/spring-boot-url-shortener) — URL shortener with Redis + analytics
 - [**CopilotPulse**](https://github.com/cipheraxat/CopilotPulse) — Local-first VS Code extension for Copilot Chat usage analytics
 
-### Open source (merged)
-
-- [vscode#330754](https://github.com/microsoft/vscode/pull/330754) — Modern UI tabs: reserve close-button column so it doesn't overlay filename
-- [vscode#325291](https://github.com/microsoft/vscode/pull/325291) — Fix Modern UI editor tab decoration color on full label
-- [playwright#41845](https://github.com/microsoft/playwright/pull/41845) — Pass client name on token-bypass connect
-- [appwrite#12891](https://github.com/appwrite/appwrite/pull/12891) — Return ISO8601 session expire from `updateSession`
-- [pkl#1383](https://github.com/apple/pkl/pull/1383) — Fix super method call inside `let` expression
-- [gradient-python#56](https://github.com/digitalocean/gradient-python/pull/56) — Add `wait_until_ready()` for agent deployment polling
-
-Also shipping PRs across Kubernetes, Apache Airflow, Hermes Agent, LiteLLM, DigitalOcean CLIs, and Grafana Cloud Monitoring.
 
 ### Outside work
 
