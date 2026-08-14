@@ -21,7 +21,7 @@
 - Shipping production backends and data-intensive systems at Barclays
 - Contributing heavily to [microsoft/vscode](https://github.com/microsoft/vscode) — chat, Agents window, Modern UI, editor UX (~28 PRs)
 - Building RAG gateways, multi-agent systems, and Go/Java distributed pipelines on the side
-- 
+- Learning new AI stuffs daily.
 
 ### Expertise
 
