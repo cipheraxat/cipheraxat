@@ -6,7 +6,7 @@
 
 # Akshat Anand
 
-**SDE2 @ Barclays** — backend systems, distributed services, and AI agents. Active open-source contributor (especially [VS Code](https://github.com/microsoft/vscode)).
+**SDE2 @ Barclays** - backend systems, distributed services, and AI agents. Active open-source contributor (especially [VS Code](https://github.com/microsoft/vscode)).
 
 [LinkedIn](https://www.linkedin.com/in/akshatanand1999) · [Twitter](https://twitter.com/hey_akshat) · [Email](mailto:akshatanandmallik@gmail.com)
 
