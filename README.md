@@ -21,6 +21,7 @@
 - Shipping production backends and data-intensive systems at Barclays
 - Contributing to [microsoft/vscode](https://github.com/microsoft/vscode) — chat, Agents window, Modern UI, editor UX (~29 PRs)
 - Merged into [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) — stable metrics cleanup for EndpointSlice controller (`endpoint_slice_controller_changes_total`)
+- Building [**codereviewer_agent**](https://github.com/cipheraxat/codereviewer_agent) — multi-agent GitHub PR reviewer with unified RAG (code + JIRA + Confluence), security/pattern agents, and ensemble verification
 - Building RAG gateways, multi-agent systems, and Go/Java distributed pipelines on the side
 
 ### Expertise
@@ -45,6 +46,7 @@
 
 ### Featured projects
 
+- [**codereviewer_agent**](https://github.com/cipheraxat/codereviewer_agent) — Multi-agent PR review pipeline: Supabase/pgvector RAG, parallel security + pattern agents, LangGraph ensemble, GitHub Actions
 - [**policyguard**](https://github.com/cipheraxat/policyguard) — Compliance RAG + PII redaction gateway (FastAPI, pgvector)
 - [**a2a-incident-agents**](https://github.com/cipheraxat/a2a-incident-agents) — Diagnosis + remediation agents in Spring Boot (A2A-style, approval gates)
 - [**usage-billing-pipeline**](https://github.com/cipheraxat/usage-billing-pipeline) — Go billing pipeline: Kafka, Redis dedup, outbox, DLQ, Prometheus
