@@ -6,7 +6,7 @@
 
 # Akshat Anand
 
-**SDE2 @ Barclays** — backend systems, distributed services, and AI agents. Active open-source contributor ([VS Code](https://github.com/microsoft/vscode), [Kubernetes](https://github.com/kubernetes/kubernetes)).
+**SDE2 @ Barclays** — backend systems, distributed services, and AI agents. Active open-source contributor ([SGLang](https://github.com/sgl-project/sglang), [VS Code](https://github.com/microsoft/vscode), [Kubernetes](https://github.com/kubernetes/kubernetes)).
 
 [LinkedIn](https://www.linkedin.com/in/akshatanand1999) · [Twitter](https://twitter.com/hey_akshat) · [Email](mailto:akshatanandmallik@gmail.com)
 
@@ -19,10 +19,10 @@
 ### Now
 
 - Shipping production backends and data-intensive systems at Barclays
-- Contributing to [microsoft/vscode](https://github.com/microsoft/vscode) — chat, Agents window, Modern UI, editor UX (~29 PRs)
-- Merged into [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) — stable metrics cleanup for EndpointSlice controller (`endpoint_slice_controller_changes_total`)
+- Merged into [sgl-project/sglang](https://github.com/sgl-project/sglang) — skip diffusion warmup preload when it would run out of GPU memory ([#40761](https://github.com/sgl-project/sglang/pull/40761))
+- In review on [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) — keep NIXL telemetry capture when export is disabled, so disaggregated vLLM KV loads still work ([#15570](https://github.com/ai-dynamo/dynamo/pull/15570))
+- In review on [microsoft/vscode](https://github.com/microsoft/vscode) — show Preview as an icon in the turn changes summary ([#328582](https://github.com/microsoft/vscode/pull/328582)); earlier chat, Agents window, and Modern UI fixes are already merged
 - Building [**codereviewer_agent**](https://github.com/cipheraxat/codereviewer_agent) — multi-agent GitHub PR reviewer with unified RAG (code + JIRA + Confluence), security/pattern agents, and ensemble verification
-- Building RAG gateways, multi-agent systems, and Go/Java distributed pipelines on the side
 
 ### Expertise
 
@@ -31,10 +31,11 @@
 | **Backend** | Java / Spring Boot, Go services, Kafka pipelines, Redis, PostgreSQL |
 | **AI / Agents** | RAG (pgvector, ChromaDB), LangGraph, tool-calling agents, PII/compliance gateways |
 | **Distributed systems** | Telemetry ingestion, billing/outbox patterns, notification fan-out, observability |
-| **Open source** | Deep product contributions (VS Code UX), plus Kubernetes, Playwright, Appwrite, Airflow |
+| **Open source** | LLM serving (SGLang, Dynamo), VS Code UX, Kubernetes, Playwright, Appwrite, Airflow |
 
 ### Open source (merged)
 
+- [sglang#40761](https://github.com/sgl-project/sglang/pull/40761) — Skip diffusion warmup preferred preload when it would OOM
 - [kubernetes#140447](https://github.com/kubernetes/kubernetes/pull/140447) — Deprecate `endpoint_slice_controller_changes` in favor of `_total` suffix (stable metrics)
 - [vscode#331612](https://github.com/microsoft/vscode/pull/331612) — Center Modern UI panel title tabs in the 32px header
 - [vscode#330754](https://github.com/microsoft/vscode/pull/330754) — Modern UI tabs: reserve close-button column so it doesn't overlay filename
