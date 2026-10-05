@@ -20,8 +20,8 @@
 
 - Shipping production backends and data-intensive systems at Barclays
 - Merged into [sgl-project/sglang](https://github.com/sgl-project/sglang) — skip diffusion warmup preload when it would run out of GPU memory ([#40761](https://github.com/sgl-project/sglang/pull/40761))
-- In review on [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) — keep NIXL telemetry capture when export is disabled, so disaggregated vLLM KV loads still work ([#15570](https://github.com/ai-dynamo/dynamo/pull/15570))
-- In review on [microsoft/vscode](https://github.com/microsoft/vscode) — show Preview as an icon in the turn changes summary ([#328582](https://github.com/microsoft/vscode/pull/328582)); earlier chat, Agents window, and Modern UI fixes are already merged
+- Working on [NVIDIA Dynamo](https://github.com/ai-dynamo/dynamo) — NIXL telemetry for disaggregated vLLM KV loads
+- Working on [VS Code](https://github.com/microsoft/vscode) chat — turn changes in the Agents window, on top of the Modern UI fixes already merged
 - Building [**codereviewer_agent**](https://github.com/cipheraxat/codereviewer_agent) — multi-agent GitHub PR reviewer with unified RAG (code + JIRA + Confluence), security/pattern agents, and ensemble verification
 
 ### Expertise
