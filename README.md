@@ -19,8 +19,6 @@
 ### Now
 
 - Shipping production backends and data-intensive systems at Barclays
-- Merged into [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) — keep NIXL telemetry capture when export is disabled ([#15570](https://github.com/ai-dynamo/dynamo/pull/15570))
-- Merged into [sgl-project/sglang](https://github.com/sgl-project/sglang) — skip diffusion warmup preload when it would run out of GPU memory ([#40761](https://github.com/sgl-project/sglang/pull/40761))
 - Working on [vLLM](https://github.com/vllm-project/vllm) — reject mismatched float16/bfloat16 KV cache dtype ([#60885](https://github.com/vllm-project/vllm/pull/60885))
 - Working on [VS Code](https://github.com/microsoft/vscode) chat — Preview icon in turn changes summary ([#328582](https://github.com/microsoft/vscode/pull/328582))
 - Building [**codereviewer_agent**](https://github.com/cipheraxat/codereviewer_agent) — multi-agent GitHub PR reviewer with unified RAG (code + JIRA + Confluence), security/pattern agents, and ensemble verification
