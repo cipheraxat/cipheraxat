@@ -4,7 +4,7 @@
 
 ### Akshat Anand
 
-SDE2 @ Barclays · backend, distributed systems, AI agents
+SDE2 @ Barclays · backend, distributed systems, AI agents, Inference
 
 [LinkedIn](https://www.linkedin.com/in/akshatanand1999) · [Twitter](https://twitter.com/hey_akshat) · [Email](mailto:akshatanandmallik@gmail.com)
 
