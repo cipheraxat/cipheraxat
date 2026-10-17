@@ -18,10 +18,11 @@ SDE2 @ Barclays · backend, distributed systems, AI agents, Inference
 
 - Building [codereviewer_agent](https://github.com/cipheraxat/codereviewer_agent): multi-agent PR reviewer with unified RAG
 - Building [briefly](https://github.com/cipheraxat/briefly): AI briefing agent on Cloudflare Workers AI
-- In review: [sglang#43871](https://github.com/sgl-project/sglang/pull/43871) · [dynamo#16108](https://github.com/ai-dynamo/dynamo/pull/16108) · [dynamo#16416](https://github.com/ai-dynamo/dynamo/pull/16416) · [litellm#32584](https://github.com/BerriAI/litellm/pull/32584) · [mcp-digitalocean#478](https://github.com/digitalocean-labs/mcp-digitalocean/pull/478) · [vscode#328582](https://github.com/microsoft/vscode/pull/328582)
+- In review: [sglang#43871](https://github.com/sgl-project/sglang/pull/43871) · [dynamo#16108](https://github.com/ai-dynamo/dynamo/pull/16108) · [dynamo#16416](https://github.com/ai-dynamo/dynamo/pull/16416) · [sglang-omni#2842](https://github.com/sgl-project/sglang-omni/pull/2842) · [mcp-digitalocean#478](https://github.com/digitalocean-labs/mcp-digitalocean/pull/478) · [vscode#328582](https://github.com/microsoft/vscode/pull/328582)
 
 **Recently merged**
 
+- [vllm#62046](https://github.com/vllm-project/vllm/pull/62046): carry the boundary tie count across blocks in the split top-p mask kernel
 - [vllm#60885](https://github.com/vllm-project/vllm/pull/60885): reject mismatched float16/bfloat16 KV cache dtype
 - [dynamo#15570](https://github.com/ai-dynamo/dynamo/pull/15570): keep NIXL telemetry capture when export is disabled
 - [sglang#40761](https://github.com/sgl-project/sglang/pull/40761): skip diffusion warmup preload when it would OOM
