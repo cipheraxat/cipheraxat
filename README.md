@@ -6,7 +6,7 @@
 
 SDE2 @ Barclays · backend, distributed systems, AI agents, Inference
 
-**12 PRs merged upstream** into vLLM, SGLang, NVIDIA Dynamo, Kubernetes and VS Code
+**13 PRs merged upstream** into vLLM, SGLang, NVIDIA Dynamo, Kubernetes and VS Code
 
 [LinkedIn](https://www.linkedin.com/in/akshatanand1999) · [Twitter](https://twitter.com/hey_akshat) · [Email](mailto:akshatanandmallik@gmail.com)
 
@@ -20,10 +20,12 @@ SDE2 @ Barclays · backend, distributed systems, AI agents, Inference
 
 - Building [codereviewer_agent](https://github.com/cipheraxat/codereviewer_agent): multi-agent PR reviewer with unified RAG
 - Building [briefly](https://github.com/cipheraxat/briefly): AI briefing agent on Cloudflare Workers AI
-- In review: [sglang#43871](https://github.com/sgl-project/sglang/pull/43871) · [dynamo#16108](https://github.com/ai-dynamo/dynamo/pull/16108) · [dynamo#16416](https://github.com/ai-dynamo/dynamo/pull/16416) · [sglang-omni#2842](https://github.com/sgl-project/sglang-omni/pull/2842) · [mcp-digitalocean#478](https://github.com/digitalocean-labs/mcp-digitalocean/pull/478) · [vscode#328582](https://github.com/microsoft/vscode/pull/328582)
+- Building [antibody](https://github.com/cipheraxat/antibody): turns every fix into a Semgrep rule enforced on coding-agent edits and in CI
+- In review: [vllm-omni#9041](https://github.com/vllm-project/vllm-omni/pull/9041) · [dynamo#16723](https://github.com/ai-dynamo/dynamo/pull/16723) · [dynamo#16108](https://github.com/ai-dynamo/dynamo/pull/16108) · [dynamo#16416](https://github.com/ai-dynamo/dynamo/pull/16416) · [sglang-omni#2842](https://github.com/sgl-project/sglang-omni/pull/2842) · [mcp-digitalocean#478](https://github.com/digitalocean-labs/mcp-digitalocean/pull/478) · [vscode#342379](https://github.com/microsoft/vscode/pull/342379) · [vscode#328582](https://github.com/microsoft/vscode/pull/328582)
 
 **Recently merged**
 
+- [sglang#43871](https://github.com/sgl-project/sglang/pull/43871): clamp glm4v request video budgets to the deployment limit
 - [vllm#62046](https://github.com/vllm-project/vllm/pull/62046): carry the boundary tie count across blocks in the split top-p mask kernel
 - [vllm#60885](https://github.com/vllm-project/vllm/pull/60885): reject mismatched float16/bfloat16 KV cache dtype
 - [dynamo#15570](https://github.com/ai-dynamo/dynamo/pull/15570): keep NIXL telemetry capture when export is disabled
