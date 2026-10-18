@@ -44,16 +44,8 @@ public class AkshatAnand {
 **Recent contributions · 2026**
 
 - ✅ **SGLang**: clamp glm4v request video budgets to the deployment limit ([#43871](https://github.com/sgl-project/sglang/pull/43871))
-- 🔄 **VS Code**: keep the paused debug location range valid in chat ([#342379](https://github.com/microsoft/vscode/pull/342379))
-- 🔄 **NVIDIA Dynamo**: Helm waits for the KAI queue controller before creating queues ([#16723](https://github.com/ai-dynamo/dynamo/pull/16723))
-- 🔄 **vLLM-Omni**: place stage-CLI test replicas on separate GPUs ([#9041](https://github.com/vllm-project/vllm-omni/pull/9041))
 - ✅ **vLLM**: carry the boundary tie count across blocks in the split top-p mask kernel ([#62046](https://github.com/vllm-project/vllm/pull/62046))
-- 🔄 **NVIDIA Dynamo**: end-to-end AICR installation guide for Kubernetes ([#16416](https://github.com/ai-dynamo/dynamo/pull/16416))
-- 🔄 **SGLang-Omni**: per-request seed in `/v1/audio/speech` ([#2842](https://github.com/sgl-project/sglang-omni/pull/2842))
 - ✅ **vLLM**: reject mismatched float16/bfloat16 KV cache dtype ([#60885](https://github.com/vllm-project/vllm/pull/60885))
-- 🔄 **NVIDIA Dynamo**: return 429 for terminal router refusals ([#16108](https://github.com/ai-dynamo/dynamo/pull/16108))
-- 🔄 **DigitalOcean MCP**: list and create projects, assign them on droplet-create ([#478](https://github.com/digitalocean-labs/mcp-digitalocean/pull/478))
-- 🔄 **VS Code**: show Preview as an icon in the chat turn changes summary ([#328582](https://github.com/microsoft/vscode/pull/328582))
 - ✅ **NVIDIA Dynamo**: keep NIXL telemetry capture when export is disabled ([#15570](https://github.com/ai-dynamo/dynamo/pull/15570))
 - ✅ **SGLang**: skip diffusion warmup preload when it would OOM ([#40761](https://github.com/sgl-project/sglang/pull/40761))
 - ✅ **Kubernetes**: `_total` suffix for the endpoint slice controller metric ([#140447](https://github.com/kubernetes/kubernetes/pull/140447))
@@ -64,7 +56,7 @@ public class AkshatAnand {
 - ✅ **VS Code**: fix Modern UI editor tab decoration color on full label ([#325291](https://github.com/microsoft/vscode/pull/325291))
 - ✅ **Apple Pkl**: fix super method call inside a `let` expression ([#1383](https://github.com/apple/pkl/pull/1383))
 
-<sub>✅ merged · 🔄 in review · newest first</sub>
+<sub>✅ merged upstream · newest first</sub>
 
 <details>
 <summary>2025</summary>
