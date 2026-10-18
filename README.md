@@ -22,24 +22,49 @@ SDE2 @ Barclays · backend, distributed systems, AI agents, Inference
 
 ```python
 class AkshatAnand:
-    def __init__(self):
-        self.role = "SDE2 @ Barclays"
-        self.location = "India"
-        self.focus = "backend systems, distributed services, LLM inference"
-        self.certification = "AWS Certified AI Practitioner"
+    name = "Akshat Anand"
+    title = "Software Development Engineer II (SDE2)"
+    company = "Barclays"
+    location = "India"
+    roles = [
+        "Backend Engineer",
+        "Distributed Systems Engineer",
+        "LLM Inference Engineer",
+        "AI Agents Engineer",
+    ]
+    certifications = ["AWS Certified AI Practitioner"]
 
-    @property
-    def skills(self):
-        return {
-            "languages": ["Java", "Go", "Python", "TypeScript"],
-            "backend": ["Spring Boot", "Kafka", "PostgreSQL", "Redis"],
-            "ai_infra": ["vLLM", "SGLang", "NVIDIA Dynamo", "RAG", "LangGraph"],
-        }
+    skills = {
+        "languages": ["Java", "Go", "Python", "TypeScript"],
+        "backend": [
+            "Spring Boot", "FastAPI", "REST APIs", "gRPC", "Microservices",
+        ],
+        "data": ["Apache Kafka", "PostgreSQL", "Redis", "pgvector"],
+        "distributed_systems": [
+            "Event-driven architecture", "Transactional outbox",
+            "Idempotency", "Prometheus observability",
+        ],
+        "llm_inference": [
+            "vLLM", "SGLang", "NVIDIA Dynamo", "KV cache", "Sampling kernels",
+        ],
+        "ai_agents": [
+            "RAG", "LangGraph", "Tool calling", "Multi-agent systems",
+        ],
+        "cloud_devops": [
+            "AWS", "Docker", "Kubernetes", "GitHub Actions", "Cloudflare Workers",
+        ],
+    }
 
-    @property
-    def open_source(self):
-        return "13 PRs merged upstream"
+    open_source = {
+        "merged_prs": 13,
+        "projects": [
+            "vLLM", "SGLang", "NVIDIA Dynamo", "Kubernetes",
+            "VS Code", "Playwright", "Appwrite", "Apple Pkl",
+        ],
+    }
 ```
+
+<sub><b>Keywords:</b> Backend Engineer · Software Engineer · Java · Spring Boot · Go · Python · Apache Kafka · PostgreSQL · Redis · Microservices · Distributed Systems · LLM Inference · vLLM · SGLang · NVIDIA Dynamo · RAG · AI Agents · LangGraph · AWS · Kubernetes · Docker</sub>
 
 **Now**
 
