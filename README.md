@@ -20,19 +20,25 @@ SDE2 @ Barclays · backend, distributed systems, AI agents, Inference
 
 **About me**
 
-```java
-public class AkshatAnand {
-    String role     = "SDE2 @ Barclays";
-    String location = "India";
-    String focus    = "backend systems, distributed services, LLM inference";
+```python
+class AkshatAnand:
+    def __init__(self):
+        self.role = "SDE2 @ Barclays"
+        self.location = "India"
+        self.focus = "backend systems, distributed services, LLM inference"
+        self.certification = "AWS Certified AI Practitioner"
 
-    List<String> languages = List.of("Java", "Go", "Python", "TypeScript");
-    List<String> backend   = List.of("Spring Boot", "Kafka", "PostgreSQL", "Redis");
-    List<String> aiInfra   = List.of("vLLM", "SGLang", "NVIDIA Dynamo", "RAG", "LangGraph");
+    @property
+    def skills(self):
+        return {
+            "languages": ["Java", "Go", "Python", "TypeScript"],
+            "backend": ["Spring Boot", "Kafka", "PostgreSQL", "Redis"],
+            "ai_infra": ["vLLM", "SGLang", "NVIDIA Dynamo", "RAG", "LangGraph"],
+        }
 
-    String openSource    = "13 PRs merged upstream";
-    String certification = "AWS Certified AI Practitioner";
-}
+    @property
+    def open_source(self):
+        return "13 PRs merged upstream"
 ```
 
 **Now**
