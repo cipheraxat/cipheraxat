@@ -46,7 +46,7 @@ SDE2 @ Barclays · backend, distributed systems, AI agents, Inference
 **Projects**
 
 - [codereviewer_agent](https://github.com/cipheraxat/codereviewer_agent): LangGraph PR review pipeline with pgvector RAG
-- [policyguard](https://github.com/cipheraxat/policyguard): compliance RAG + PII redaction gateway
+- [antibody](https://github.com/cipheraxat/antibody): every fix becomes a verified Semgrep rule, enforced on coding-agent edits and in CI
 - [a2a-incident-agents](https://github.com/cipheraxat/a2a-incident-agents): diagnosis + remediation agents in Spring Boot
 - [usage-billing-pipeline](https://github.com/cipheraxat/usage-billing-pipeline): Go billing on Kafka, Redis, outbox, DLQ
 - [CopilotPulse](https://github.com/cipheraxat/CopilotPulse): local-first Copilot Chat analytics for VS Code
