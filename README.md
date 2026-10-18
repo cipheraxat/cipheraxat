@@ -12,34 +12,64 @@ SDE2 @ Barclays · backend, distributed systems, AI agents, Inference
 
 <img src="https://skillicons.dev/icons?i=java,spring,go,python,ts,postgres,redis,kafka,docker,aws&perline=10" alt="Tech stack" />
 
+<a href="https://www.credly.com/badges/b7864762-eaf0-4cd8-8079-d89291e7159c/public_url"><img src="https://images.credly.com/size/110x110/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" width="72" alt="AWS Certified AI Practitioner" title="AWS Certified AI Practitioner" /></a>
+
 </div>
 
 ---
+
+**About me**
+
+```java
+public class AkshatAnand {
+    String role     = "SDE2 @ Barclays";
+    String location = "India";
+    String focus    = "backend systems, distributed services, LLM inference";
+
+    List<String> languages = List.of("Java", "Go", "Python", "TypeScript");
+    List<String> backend   = List.of("Spring Boot", "Kafka", "PostgreSQL", "Redis");
+    List<String> aiInfra   = List.of("vLLM", "SGLang", "NVIDIA Dynamo", "RAG", "LangGraph");
+
+    String openSource    = "13 PRs merged upstream";
+    String certification = "AWS Certified AI Practitioner";
+}
+```
 
 **Now**
 
 - Building [codereviewer_agent](https://github.com/cipheraxat/codereviewer_agent): multi-agent PR reviewer with unified RAG
 - Building [briefly](https://github.com/cipheraxat/briefly): AI briefing agent on Cloudflare Workers AI
 - Building [antibody](https://github.com/cipheraxat/antibody): turns every fix into a Semgrep rule enforced on coding-agent edits and in CI
-- In review: [vllm-omni#9041](https://github.com/vllm-project/vllm-omni/pull/9041) · [dynamo#16723](https://github.com/ai-dynamo/dynamo/pull/16723) · [dynamo#16108](https://github.com/ai-dynamo/dynamo/pull/16108) · [dynamo#16416](https://github.com/ai-dynamo/dynamo/pull/16416) · [sglang-omni#2842](https://github.com/sgl-project/sglang-omni/pull/2842) · [mcp-digitalocean#478](https://github.com/digitalocean-labs/mcp-digitalocean/pull/478) · [vscode#342379](https://github.com/microsoft/vscode/pull/342379) · [vscode#328582](https://github.com/microsoft/vscode/pull/328582)
 
-**Recently merged**
+**Recent contributions · 2026**
 
-- [sglang#43871](https://github.com/sgl-project/sglang/pull/43871): clamp glm4v request video budgets to the deployment limit
-- [vllm#62046](https://github.com/vllm-project/vllm/pull/62046): carry the boundary tie count across blocks in the split top-p mask kernel
-- [vllm#60885](https://github.com/vllm-project/vllm/pull/60885): reject mismatched float16/bfloat16 KV cache dtype
-- [dynamo#15570](https://github.com/ai-dynamo/dynamo/pull/15570): keep NIXL telemetry capture when export is disabled
-- [sglang#40761](https://github.com/sgl-project/sglang/pull/40761): skip diffusion warmup preload when it would OOM
-- [kubernetes#140447](https://github.com/kubernetes/kubernetes/pull/140447): `_total` suffix for endpoint slice controller metric
-- [vscode#331612](https://github.com/microsoft/vscode/pull/331612) · [#330754](https://github.com/microsoft/vscode/pull/330754) · [#325291](https://github.com/microsoft/vscode/pull/325291): Modern UI tab fixes
+- ✅ **SGLang**: clamp glm4v request video budgets to the deployment limit ([#43871](https://github.com/sgl-project/sglang/pull/43871))
+- 🔄 **VS Code**: keep the paused debug location range valid in chat ([#342379](https://github.com/microsoft/vscode/pull/342379))
+- 🔄 **NVIDIA Dynamo**: Helm waits for the KAI queue controller before creating queues ([#16723](https://github.com/ai-dynamo/dynamo/pull/16723))
+- 🔄 **vLLM-Omni**: place stage-CLI test replicas on separate GPUs ([#9041](https://github.com/vllm-project/vllm-omni/pull/9041))
+- ✅ **vLLM**: carry the boundary tie count across blocks in the split top-p mask kernel ([#62046](https://github.com/vllm-project/vllm/pull/62046))
+- 🔄 **NVIDIA Dynamo**: end-to-end AICR installation guide for Kubernetes ([#16416](https://github.com/ai-dynamo/dynamo/pull/16416))
+- 🔄 **SGLang-Omni**: per-request seed in `/v1/audio/speech` ([#2842](https://github.com/sgl-project/sglang-omni/pull/2842))
+- ✅ **vLLM**: reject mismatched float16/bfloat16 KV cache dtype ([#60885](https://github.com/vllm-project/vllm/pull/60885))
+- 🔄 **NVIDIA Dynamo**: return 429 for terminal router refusals ([#16108](https://github.com/ai-dynamo/dynamo/pull/16108))
+- 🔄 **DigitalOcean MCP**: list and create projects, assign them on droplet-create ([#478](https://github.com/digitalocean-labs/mcp-digitalocean/pull/478))
+- 🔄 **VS Code**: show Preview as an icon in the chat turn changes summary ([#328582](https://github.com/microsoft/vscode/pull/328582))
+- ✅ **NVIDIA Dynamo**: keep NIXL telemetry capture when export is disabled ([#15570](https://github.com/ai-dynamo/dynamo/pull/15570))
+- ✅ **SGLang**: skip diffusion warmup preload when it would OOM ([#40761](https://github.com/sgl-project/sglang/pull/40761))
+- ✅ **Kubernetes**: `_total` suffix for the endpoint slice controller metric ([#140447](https://github.com/kubernetes/kubernetes/pull/140447))
+- ✅ **VS Code**: center Modern UI panel title tabs in the 32px header ([#331612](https://github.com/microsoft/vscode/pull/331612))
+- ✅ **VS Code**: Modern UI tabs reserve the close-button column so it doesn't overlay the filename ([#330754](https://github.com/microsoft/vscode/pull/330754))
+- ✅ **Appwrite**: return ISO8601 session expire from `updateSession` ([#12891](https://github.com/appwrite/appwrite/pull/12891))
+- ✅ **Playwright**: pass client name on token-bypass connect ([#41845](https://github.com/microsoft/playwright/pull/41845))
+- ✅ **VS Code**: fix Modern UI editor tab decoration color on full label ([#325291](https://github.com/microsoft/vscode/pull/325291))
+- ✅ **Apple Pkl**: fix super method call inside a `let` expression ([#1383](https://github.com/apple/pkl/pull/1383))
+
+<sub>✅ merged · 🔄 in review · newest first</sub>
 
 <details>
-<summary>More</summary>
+<summary>2025</summary>
 
-- [playwright#41845](https://github.com/microsoft/playwright/pull/41845): pass client name on token-bypass connect
-- [appwrite#12891](https://github.com/appwrite/appwrite/pull/12891): ISO8601 session expire from `updateSession`
-- [pkl#1383](https://github.com/apple/pkl/pull/1383): super method call inside `let`
-- [gradient-python#56](https://github.com/digitalocean/gradient-python/pull/56): `wait_until_ready()` for agent deployments
+- ✅ **DigitalOcean Gradient**: `wait_until_ready()` for agent deployments ([#56](https://github.com/digitalocean/gradient-python/pull/56))
 
 </details>
 
