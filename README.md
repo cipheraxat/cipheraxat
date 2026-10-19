@@ -6,7 +6,7 @@
 
 SDE2 @ Barclays · backend, distributed systems, AI agents, Inference
 
-**13 PRs merged upstream** into vLLM, SGLang, NVIDIA Dynamo, Kubernetes and VS Code
+**14 PRs merged upstream** into vLLM, SGLang, NVIDIA Dynamo, Kubernetes and VS Code
 
 [LinkedIn](https://www.linkedin.com/in/akshatanand1999) · [Twitter](https://twitter.com/hey_akshat) · [Email](mailto:akshatanandmallik@gmail.com)
 
@@ -57,7 +57,7 @@ class AkshatAnand:
     }
 
     open_source = {
-        "merged_prs": 13,
+        "merged_prs": 14,
         "projects": [
             "vLLM", "SGLang", "NVIDIA Dynamo", "Kubernetes",
             "VS Code", "Playwright", "Appwrite", "Apple Pkl",
@@ -75,6 +75,7 @@ class AkshatAnand:
 
 **Recent contributions · 2026**
 
+- ✅ **vLLM**: serve Gemma 4 on `/v1/systemone` and `/v1/decisions` ([#62303](https://github.com/vllm-project/vllm/pull/62303))
 - ✅ **SGLang**: clamp glm4v request video budgets to the deployment limit ([#43871](https://github.com/sgl-project/sglang/pull/43871))
 - ✅ **vLLM**: carry the boundary tie count across blocks in the split top-p mask kernel ([#62046](https://github.com/vllm-project/vllm/pull/62046))
 - ✅ **vLLM**: reject mismatched float16/bfloat16 KV cache dtype ([#60885](https://github.com/vllm-project/vllm/pull/60885))
