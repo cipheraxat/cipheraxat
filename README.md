@@ -12,6 +12,7 @@ SDE2 @ Barclays · backend, distributed systems, AI agents, Inference
 
 <img src="https://skillicons.dev/icons?i=java,spring,go,python,ts,postgres,redis,kafka,docker,aws&perline=10" alt="Tech stack" />
 
+<a href="https://www.credly.com/badges/d2a21830-7ca1-465c-bd95-3eb4e5187224/public_url"><img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="72" alt="AWS Certified Cloud Practitioner" title="AWS Certified Cloud Practitioner" /></a>
 <a href="https://www.credly.com/badges/b7864762-eaf0-4cd8-8079-d89291e7159c/public_url"><img src="https://images.credly.com/size/110x110/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" width="72" alt="AWS Certified AI Practitioner" title="AWS Certified AI Practitioner" /></a>
 
 </div>
@@ -32,7 +33,7 @@ class AkshatAnand:
         "LLM Inference Engineer",
         "AI Agents Engineer",
     ]
-    certifications = ["AWS Certified AI Practitioner"]
+    certifications = ["AWS Certified Cloud Practitioner", "AWS Certified AI Practitioner"]
 
     skills = {
         "languages": ["Java", "Go", "Python", "TypeScript"],
@@ -64,11 +65,11 @@ class AkshatAnand:
     }
 ```
 
-<sub><b>Keywords:</b> Backend Engineer · Software Engineer · Java · Spring Boot · Go · Python · Apache Kafka · PostgreSQL · Redis · Microservices · Distributed Systems · LLM Inference · vLLM · SGLang · NVIDIA Dynamo · RAG · AI Agents · Developer Tools · Semgrep · LangGraph · AWS · Kubernetes · Docker</sub>
+<sub><b>Keywords:</b> Backend Engineer · Software Engineer · Java · Spring Boot · Go · Python · Apache Kafka · PostgreSQL · Redis · Microservices · Distributed Systems · LLM Inference · vLLM · SGLang · NVIDIA Dynamo · RAG · AI Agents · Developer Tools · Semgrep · LangGraph · AWS Certified Cloud Practitioner · AWS Certified AI Practitioner · AWS · Kubernetes · Docker</sub>
 
 **Now**
 
-- ⭐ **Building [antibody](https://github.com/cipheraxat/antibody)**: every fix becomes a verified Semgrep rule that coding agents can't break, enforced on agent edits and in CI
+- **Building [antibody](https://github.com/cipheraxat/antibody)**: every fix becomes a verified Semgrep rule that coding agents can't break, enforced on agent edits and in CI
 - Building [codereviewer_agent](https://github.com/cipheraxat/codereviewer_agent): multi-agent PR reviewer with unified RAG
 - Building [briefly](https://github.com/cipheraxat/briefly): AI briefing agent on Cloudflare Workers AI
 
@@ -98,7 +99,7 @@ class AkshatAnand:
 
 **Projects**
 
-- ⭐ **[antibody](https://github.com/cipheraxat/antibody)**: every fix becomes a rule your AI coding agent can't break. The LLM writes the check once, proves it against the real fix, and Semgrep enforces it on every agent edit and in CI. Python · Semgrep · static analysis · Claude Code
+- **[antibody](https://github.com/cipheraxat/antibody)**: every fix becomes a rule your AI coding agent can't break. The LLM writes the check once, proves it against the real fix, and Semgrep enforces it on every agent edit and in CI. Python · Semgrep · static analysis · Claude Code
 - [codereviewer_agent](https://github.com/cipheraxat/codereviewer_agent): LangGraph PR review pipeline with pgvector RAG
 - [a2a-incident-agents](https://github.com/cipheraxat/a2a-incident-agents): diagnosis + remediation agents in Spring Boot
 - [usage-billing-pipeline](https://github.com/cipheraxat/usage-billing-pipeline): Go billing on Kafka, Redis, outbox, DLQ
