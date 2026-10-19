@@ -64,13 +64,13 @@ class AkshatAnand:
     }
 ```
 
-<sub><b>Keywords:</b> Backend Engineer · Software Engineer · Java · Spring Boot · Go · Python · Apache Kafka · PostgreSQL · Redis · Microservices · Distributed Systems · LLM Inference · vLLM · SGLang · NVIDIA Dynamo · RAG · AI Agents · LangGraph · AWS · Kubernetes · Docker</sub>
+<sub><b>Keywords:</b> Backend Engineer · Software Engineer · Java · Spring Boot · Go · Python · Apache Kafka · PostgreSQL · Redis · Microservices · Distributed Systems · LLM Inference · vLLM · SGLang · NVIDIA Dynamo · RAG · AI Agents · Developer Tools · Semgrep · LangGraph · AWS · Kubernetes · Docker</sub>
 
 **Now**
 
+- ⭐ **Building [antibody](https://github.com/cipheraxat/antibody)**: every fix becomes a verified Semgrep rule that coding agents can't break, enforced on agent edits and in CI
 - Building [codereviewer_agent](https://github.com/cipheraxat/codereviewer_agent): multi-agent PR reviewer with unified RAG
 - Building [briefly](https://github.com/cipheraxat/briefly): AI briefing agent on Cloudflare Workers AI
-- Building [antibody](https://github.com/cipheraxat/antibody): turns every fix into a Semgrep rule enforced on coding-agent edits and in CI
 
 **Recent contributions · 2026**
 
@@ -98,8 +98,8 @@ class AkshatAnand:
 
 **Projects**
 
+- ⭐ **[antibody](https://github.com/cipheraxat/antibody)**: every fix becomes a rule your AI coding agent can't break. The LLM writes the check once, proves it against the real fix, and Semgrep enforces it on every agent edit and in CI. Python · Semgrep · static analysis · Claude Code
 - [codereviewer_agent](https://github.com/cipheraxat/codereviewer_agent): LangGraph PR review pipeline with pgvector RAG
-- [antibody](https://github.com/cipheraxat/antibody): every fix becomes a verified Semgrep rule, enforced on coding-agent edits and in CI
 - [a2a-incident-agents](https://github.com/cipheraxat/a2a-incident-agents): diagnosis + remediation agents in Spring Boot
 - [usage-billing-pipeline](https://github.com/cipheraxat/usage-billing-pipeline): Go billing on Kafka, Redis, outbox, DLQ
 - [CopilotPulse](https://github.com/cipheraxat/CopilotPulse): local-first Copilot Chat analytics for VS Code
