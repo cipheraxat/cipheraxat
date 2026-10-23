@@ -6,7 +6,7 @@
 
 SDE2 @ Barclays · backend, distributed systems, AI agents, Inference
 
-**15 PRs merged upstream** into vLLM, SGLang, NVIDIA Dynamo, Kubernetes and VS Code
+**16 PRs merged upstream** into vLLM, vLLM-Omni, SGLang, NVIDIA Dynamo, Kubernetes and VS Code
 
 [LinkedIn](https://www.linkedin.com/in/akshatanand1999) · [Twitter](https://twitter.com/hey_akshat) · [Email](mailto:akshatanandmallik@gmail.com)
 
@@ -57,10 +57,10 @@ class AkshatAnand:
     }
 
     open_source = {
-        "merged_prs": 15,
+        "merged_prs": 16,
         "projects": [
-            "vLLM", "SGLang", "NVIDIA Dynamo", "Kubernetes",
-            "VS Code", "Playwright", "Appwrite", "Apple Pkl",
+            "vLLM", "vLLM-Omni", "SGLang", "NVIDIA Dynamo",
+            "Kubernetes", "VS Code", "Playwright", "Appwrite", "Apple Pkl",
         ],
     }
 ```
@@ -75,6 +75,7 @@ class AkshatAnand:
 
 **Recent contributions · 2026**
 
+- ✅ **vLLM-Omni**: place stage-CLI test replicas on separate GPUs ([#9041](https://github.com/vllm-project/vllm-omni/pull/9041))
 - ✅ **VS Code**: keep the paused debug location range valid in chat ([#342379](https://github.com/microsoft/vscode/pull/342379))
 - ✅ **vLLM**: serve Gemma 4 on `/v1/systemone` and `/v1/decisions` ([#62303](https://github.com/vllm-project/vllm/pull/62303))
 - ✅ **SGLang**: clamp glm4v request video budgets to the deployment limit ([#43871](https://github.com/sgl-project/sglang/pull/43871))
