@@ -12,8 +12,10 @@ SDE2 @ Barclays · backend, distributed systems, AI agents, Inference
 
 <img src="https://skillicons.dev/icons?i=java,spring,go,python,ts,postgres,redis,kafka,docker,aws&perline=10" alt="Tech stack" />
 
-<a href="https://www.credly.com/badges/d2a21830-7ca1-465c-bd95-3eb4e5187224/public_url"><img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="72" alt="AWS Certified Cloud Practitioner" title="AWS Certified Cloud Practitioner" /></a>
-<a href="https://www.credly.com/badges/b7864762-eaf0-4cd8-8079-d89291e7159c/public_url"><img src="https://images.credly.com/size/110x110/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" width="72" alt="AWS Certified AI Practitioner" title="AWS Certified AI Practitioner" /></a>
+<p>
+  <a href="https://www.credly.com/badges/d2a21830-7ca1-465c-bd95-3eb4e5187224/public_url"><img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="72" alt="AWS Certified Cloud Practitioner" title="AWS Certified Cloud Practitioner" /></a>&nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/b7864762-eaf0-4cd8-8079-d89291e7159c/public_url"><img src="https://images.credly.com/size/110x110/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" width="72" alt="AWS Certified AI Practitioner" title="AWS Certified AI Practitioner" /></a>
+</p>
 
 </div>
 
@@ -21,48 +23,45 @@ SDE2 @ Barclays · backend, distributed systems, AI agents, Inference
 
 **About me**
 
-```python
-class AkshatAnand:
-    name = "Akshat Anand"
-    title = "Software Development Engineer II (SDE2)"
-    company = "Barclays"
-    location = "India"
-    roles = [
-        "Backend Engineer",
-        "Distributed Systems Engineer",
-        "LLM Inference Engineer",
-        "AI Agents Engineer",
-    ]
-    certifications = ["AWS Certified Cloud Practitioner", "AWS Certified AI Practitioner"]
+Akshat Anand is a Software Development Engineer II (SDE2) at Barclays, based in India, working on backend systems, distributed systems, LLM inference and AI agents. He has 17 pull requests merged into open-source projects including vLLM, SGLang, NVIDIA Dynamo, Kubernetes and VS Code, and holds the AWS Certified Cloud Practitioner and AWS Certified AI Practitioner certifications.
 
-    skills = {
-        "languages": ["Java", "Go", "Python", "TypeScript"],
-        "backend": [
-            "Spring Boot", "FastAPI", "REST APIs", "gRPC", "Microservices",
-        ],
-        "data": ["Apache Kafka", "PostgreSQL", "Redis", "pgvector"],
-        "distributed_systems": [
-            "Event-driven architecture", "Transactional outbox",
-            "Idempotency", "Prometheus observability",
-        ],
-        "llm_inference": [
-            "vLLM", "SGLang", "NVIDIA Dynamo", "KV cache", "Sampling kernels",
-        ],
-        "ai_agents": [
-            "RAG", "LangGraph", "Tool calling", "Multi-agent systems",
-        ],
-        "cloud_devops": [
-            "AWS", "Docker", "Kubernetes", "GitHub Actions", "Cloudflare Workers",
-        ],
-    }
-
-    open_source = {
-        "merged_prs": 17,
-        "projects": [
-            "vLLM", "vLLM-Omni", "SGLang", "NVIDIA Dynamo",
-            "Kubernetes", "VS Code", "Playwright", "Appwrite", "Apple Pkl",
-        ],
-    }
+```yaml
+name: Akshat Anand
+title: Software Development Engineer II (SDE2)
+company: Barclays
+location: India
+roles:
+  - Backend Engineer
+  - Distributed Systems Engineer
+  - LLM Inference Engineer
+  - AI Agents Engineer
+certifications:
+  - AWS Certified Cloud Practitioner
+  - AWS Certified AI Practitioner
+skills:
+  languages: [Java, Go, Python, TypeScript]
+  backend: [Spring Boot, FastAPI, REST APIs, gRPC, Microservices]
+  data: [Apache Kafka, PostgreSQL, Redis, pgvector]
+  distributed_systems:
+    - Event-driven architecture
+    - Transactional outbox
+    - Idempotency
+    - Prometheus observability
+  llm_inference: [vLLM, SGLang, NVIDIA Dynamo, KV cache, Sampling kernels]
+  ai_agents: [RAG, LangGraph, Tool calling, Multi-agent systems]
+  cloud_devops: [AWS, Docker, Kubernetes, GitHub Actions, Cloudflare Workers]
+open_source:
+  merged_prs: 17
+  projects:
+    - vLLM
+    - vLLM-Omni
+    - SGLang
+    - NVIDIA Dynamo
+    - Kubernetes
+    - VS Code
+    - Playwright
+    - Appwrite
+    - Apple Pkl
 ```
 
 <sub><b>Keywords:</b> Backend Engineer · Software Engineer · Java · Spring Boot · Go · Python · Apache Kafka · PostgreSQL · Redis · Microservices · Distributed Systems · LLM Inference · vLLM · SGLang · NVIDIA Dynamo · RAG · AI Agents · Developer Tools · Semgrep · LangGraph · AWS Certified Cloud Practitioner · AWS Certified AI Practitioner · AWS · Kubernetes · Docker</sub>
