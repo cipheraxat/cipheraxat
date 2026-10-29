@@ -6,7 +6,7 @@
 
 SDE2 @ Barclays · backend, distributed systems, AI agents, Inference
 
-**17 PRs merged upstream** into vLLM, vLLM-Omni, SGLang, NVIDIA Dynamo, Kubernetes and VS Code
+**18 PRs merged upstream** into vLLM, vLLM-Omni, SGLang, NVIDIA Dynamo, Kubernetes and VS Code
 
 [LinkedIn](https://www.linkedin.com/in/akshatanand1999) · [Twitter](https://twitter.com/hey_akshat) · [Email](mailto:akshatanandmallik@gmail.com)
 
@@ -23,7 +23,7 @@ SDE2 @ Barclays · backend, distributed systems, AI agents, Inference
 
 **About me**
 
-Akshat Anand is a Software Development Engineer II (SDE2) at Barclays, based in India, working on backend systems, distributed systems, LLM inference and AI agents. He has 17 pull requests merged into open-source projects including vLLM, SGLang, NVIDIA Dynamo, Kubernetes and VS Code, and holds the AWS Certified Cloud Practitioner and AWS Certified AI Practitioner certifications.
+Akshat Anand is a Software Development Engineer II (SDE2) at Barclays, based in India, working on backend systems, distributed systems, LLM inference and AI agents. He has 18 pull requests merged into open-source projects including vLLM, SGLang, NVIDIA Dynamo, Kubernetes and VS Code, and holds the AWS Certified Cloud Practitioner and AWS Certified AI Practitioner certifications.
 
 ```yaml
 name: Akshat Anand
@@ -51,7 +51,7 @@ skills:
   ai_agents: [RAG, LangGraph, Tool calling, Multi-agent systems]
   cloud_devops: [AWS, Docker, Kubernetes, GitHub Actions, Cloudflare Workers]
 open_source:
-  merged_prs: 17
+  merged_prs: 18
   projects:
     - vLLM
     - vLLM-Omni
@@ -74,6 +74,7 @@ open_source:
 
 **Recent contributions · 2026**
 
+- ✅ **VS Code**: release `code -w -g file:line` once the file's editor closes ([#344740](https://github.com/microsoft/vscode/pull/344740))
 - ✅ **NVIDIA Dynamo**: end-to-end AICR installation guide for Kubernetes ([#16416](https://github.com/ai-dynamo/dynamo/pull/16416))
 - ✅ **vLLM-Omni**: place stage-CLI test replicas on separate GPUs ([#9041](https://github.com/vllm-project/vllm-omni/pull/9041))
 - ✅ **VS Code**: keep the paused debug location range valid in chat ([#342379](https://github.com/microsoft/vscode/pull/342379))
