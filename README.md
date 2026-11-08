@@ -29,8 +29,8 @@ roles:
   - LLM Inference Engineer
   - AI Agents Engineer
 certifications:
-  - AWS Certified Cloud Practitioner
-  - AWS Certified AI Practitioner
+  - AWS Certified Cloud Practitioner: https://www.credly.com/badges/d2a21830-7ca1-465c-bd95-3eb4e5187224/public_url
+  - AWS Certified AI Practitioner: https://www.credly.com/badges/b7864762-eaf0-4cd8-8079-d89291e7159c/public_url
 skills:
   languages: [Java, Go, Python, TypeScript]
   backend: [Spring Boot, FastAPI, REST APIs, gRPC, Microservices]
