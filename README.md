@@ -96,12 +96,12 @@ open_source:
 
 **Projects**
 
-- **[antibody](https://github.com/cipheraxat/antibody)**: every fix becomes a rule your AI coding agent can't break. The LLM writes the check once, proves it against the real fix, and Semgrep enforces it on every agent edit and in CI. Python · Semgrep · static analysis · Claude Code
-- [codereviewer_agent](https://github.com/cipheraxat/codereviewer_agent): a GitHub Action that reviews every PR and posts inline comments on risky lines. LangGraph runs a security agent and a pattern agent in parallel over the diff and JIRA/Confluence context in pgvector, then an ensemble dedupes, fact-checks against the diff and posts only high-confidence findings. Python · LangGraph · RAG · pgvector · GitHub Actions
-- [a2a-incident-agents](https://github.com/cipheraxat/a2a-incident-agents): a diagnosis agent turns incident logs into A2A-style task cards, and a remediation agent picks a scoped recovery action behind policy-driven approval gates. Every prompt, decision and tool call is traced, and an eval harness scores the pipeline. Java 21 · Spring Boot · Spring AI · Postgres + pgvector
-- [usage-billing-pipeline](https://github.com/cipheraxat/usage-billing-pipeline): consumes usage events from Kafka, dedupes with Redis idempotency keys and writes billing records through a transactional outbox for exactly-once billing, with a dead-letter queue, a drift reconciler and Prometheus metrics. Go · Kafka · Redis · PostgreSQL · Prometheus
-- [CopilotPulse](https://github.com/cipheraxat/CopilotPulse): a local-first VS Code extension that turns your Copilot Chat history into dashboards for sessions, tokens, per-model cost, peak hours and tool usage. No data leaves your machine. TypeScript · React · VS Code API
-- [briefly](https://github.com/cipheraxat/briefly): an AI briefing agent where chat answers quick questions and a durable workflow plans, drafts, revises and saves longer briefs, with memory that survives refresh. TypeScript · Cloudflare Workers AI · Durable Objects · Workflows
+- **[antibody](https://github.com/cipheraxat/antibody)**: every fix becomes a Semgrep rule your AI coding agent can't break, enforced on agent edits and in CI.<br>Python · Semgrep · static analysis · Claude Code
+- [codereviewer_agent](https://github.com/cipheraxat/codereviewer_agent): multi-agent GitHub Action that posts only fact-checked, high-confidence inline PR comments.<br>Python · LangGraph · RAG · pgvector · GitHub Actions
+- [a2a-incident-agents](https://github.com/cipheraxat/a2a-incident-agents): incident diagnosis and remediation agents with approval gates, traces and evals.<br>Java 21 · Spring Boot · Spring AI · Postgres + pgvector
+- [usage-billing-pipeline](https://github.com/cipheraxat/usage-billing-pipeline): exactly-once usage billing with Redis dedup, a transactional outbox and a DLQ.<br>Go · Kafka · Redis · PostgreSQL · Prometheus
+- [CopilotPulse](https://github.com/cipheraxat/CopilotPulse): local-first VS Code extension with dashboards for Copilot Chat sessions, tokens and per-model cost.<br>TypeScript · React · VS Code API
+- [briefly](https://github.com/cipheraxat/briefly): AI briefing agent whose durable workflow plans, drafts, revises and saves briefs, with persistent memory.<br>TypeScript · Cloudflare Workers AI · Durable Objects · Workflows
 
 ---
 
