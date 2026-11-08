@@ -64,8 +64,6 @@ open_source:
     - Apple Pkl
 ```
 
-<sub><b>Keywords:</b> Backend Engineer · Software Engineer · Java · Spring Boot · Go · Python · Apache Kafka · PostgreSQL · Redis · Microservices · Distributed Systems · LLM Inference · vLLM · SGLang · NVIDIA Dynamo · RAG · AI Agents · Developer Tools · Semgrep · LangGraph · AWS Certified Cloud Practitioner · AWS Certified AI Practitioner · AWS · Kubernetes · Docker</sub>
-
 **Now**
 
 - **Building [antibody](https://github.com/cipheraxat/antibody)**: every fix becomes a verified Semgrep rule that coding agents can't break, enforced on agent edits and in CI
