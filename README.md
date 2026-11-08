@@ -16,7 +16,7 @@ SDE2 @ Barclays · backend, distributed systems, AI agents, Inference
 
 **About me**
 
-Akshat Anand is a Software Development Engineer II (SDE2) at Barclays, based in India, working on backend systems, distributed systems, LLM inference and AI agents. He has 19 pull requests merged into open-source projects including vLLM, SGLang, NVIDIA Dynamo, Kubernetes and VS Code, and holds the [AWS Certified Cloud Practitioner](https://www.credly.com/badges/d2a21830-7ca1-465c-bd95-3eb4e5187224/public_url) and [AWS Certified AI Practitioner](https://www.credly.com/badges/b7864762-eaf0-4cd8-8079-d89291e7159c/public_url) certifications.
+Akshat Anand is a Software Development Engineer II (SDE2) at Barclays, based in India, working on backend systems, distributed systems, LLM inference and AI agents. He has 19 pull requests merged into open-source projects including vLLM, SGLang, NVIDIA Dynamo, Kubernetes and VS Code.
 
 ```yaml
 name: Akshat Anand
@@ -29,10 +29,8 @@ roles:
   - LLM Inference Engineer
   - AI Agents Engineer
 certifications:
-  - name: AWS Certified Cloud Practitioner
-    url: https://www.credly.com/badges/d2a21830-7ca1-465c-bd95-3eb4e5187224/public_url
-  - name: AWS Certified AI Practitioner
-    url: https://www.credly.com/badges/b7864762-eaf0-4cd8-8079-d89291e7159c/public_url
+  - AWS Certified Cloud Practitioner
+  - AWS Certified AI Practitioner
 skills:
   languages: [Java, Go, Python, TypeScript]
   backend: [Spring Boot, FastAPI, REST APIs, gRPC, Microservices]
