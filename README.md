@@ -6,7 +6,7 @@
 
 SDE2 @ Barclays · backend, distributed systems, AI agents, Inference
 
-**19 PRs merged upstream** into vLLM, vLLM-Omni, SGLang, NVIDIA Dynamo, Kubernetes and VS Code
+**20 PRs merged upstream** into vLLM, vLLM-Omni, SGLang, NVIDIA Dynamo, Kubernetes and VS Code
 
 [LinkedIn](https://www.linkedin.com/in/akshatanand1999) · [Twitter](https://twitter.com/hey_akshat) · [Email](mailto:akshatanandmallik@gmail.com)
 
@@ -16,7 +16,7 @@ SDE2 @ Barclays · backend, distributed systems, AI agents, Inference
 
 **About me**
 
-Akshat Anand is a Software Development Engineer II (SDE2) at Barclays, based in India, working on backend systems, distributed systems, LLM inference and AI agents. He has 19 pull requests merged into open-source projects including vLLM, SGLang, NVIDIA Dynamo, Kubernetes and VS Code.
+Akshat Anand is a Software Development Engineer II (SDE2) at Barclays, based in India, working on backend systems, distributed systems, LLM inference and AI agents. He has 20 pull requests merged into open-source projects including vLLM, SGLang, NVIDIA Dynamo, Kubernetes and VS Code.
 
 ```yaml
 name: Akshat Anand
@@ -44,7 +44,7 @@ skills:
   ai_agents: [RAG, LangGraph, Tool calling, Multi-agent systems]
   cloud_devops: [AWS, Docker, Kubernetes, GitHub Actions, Cloudflare Workers]
 open_source:
-  merged_prs: 19
+  merged_prs: 20
   projects:
     - vLLM
     - vLLM-Omni
@@ -59,6 +59,7 @@ open_source:
 
 **Recent contributions · 2026**
 
+- ✅ **NVIDIA Dynamo**: keep multimodal routing opt-in so default wheel builds stop compiling the image stack ([#18199](https://github.com/ai-dynamo/dynamo/pull/18199))
 - ✅ **NVIDIA Dynamo**: wait for the KAI queue controller before creating Dynamo queues in the Helm chart ([#16723](https://github.com/ai-dynamo/dynamo/pull/16723))
 - ✅ **VS Code**: release `code -w -g file:line` once the file's editor closes ([#344740](https://github.com/microsoft/vscode/pull/344740))
 - ✅ **NVIDIA Dynamo**: end-to-end AICR installation guide for Kubernetes ([#16416](https://github.com/ai-dynamo/dynamo/pull/16416))
@@ -90,6 +91,7 @@ open_source:
 **Projects**
 
 - **[antibody](https://github.com/cipheraxat/antibody)**: every fix becomes a Semgrep rule your AI coding agent can't break, enforced on agent edits and in CI.<br>Python · Semgrep · static analysis · Claude Code
+- [nanoserve](https://github.com/cipheraxat/nanoserve): small vLLM-style inference engine with paged KV cache, continuous batching and prefix caching.<br>Python · PyTorch · Triton · OpenAI-compatible server
 - [codereviewer_agent](https://github.com/cipheraxat/codereviewer_agent): multi-agent GitHub Action that posts only fact-checked, high-confidence inline PR comments.<br>Python · LangGraph · RAG · pgvector · GitHub Actions
 - [a2a-incident-agents](https://github.com/cipheraxat/a2a-incident-agents): incident diagnosis and remediation agents with approval gates, traces and evals.<br>Java 21 · Spring Boot · Spring AI · Postgres + pgvector
 - [usage-billing-pipeline](https://github.com/cipheraxat/usage-billing-pipeline): exactly-once usage billing with Redis dedup, a transactional outbox and a DLQ.<br>Go · Kafka · Redis · PostgreSQL · Prometheus
