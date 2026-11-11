@@ -99,7 +99,3 @@ open_source:
 - [usage-billing-pipeline](https://github.com/cipheraxat/usage-billing-pipeline): exactly-once usage billing with Redis dedup, a transactional outbox and a DLQ.<br>Go · Kafka · Redis · PostgreSQL · Prometheus
 - [CopilotPulse](https://github.com/cipheraxat/CopilotPulse): local-first VS Code extension with dashboards for Copilot Chat sessions, tokens and per-model cost.<br>TypeScript · React · VS Code API
 - [briefly](https://github.com/cipheraxat/briefly): AI briefing agent whose durable workflow plans, drafts, revises and saves briefs, with persistent memory.<br>TypeScript · Cloudflare Workers AI · Durable Objects · Workflows
-
----
-
-<sub>Marathons · weight training · too many terminal tabs</sub>
