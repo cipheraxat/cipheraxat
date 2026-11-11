@@ -6,7 +6,7 @@
 
 SDE2 @ Barclays · backend, distributed systems, AI agents, Inference
 
-**20 PRs merged upstream** into vLLM, vLLM-Omni, SGLang, NVIDIA Dynamo, Kubernetes and VS Code
+**21 PRs merged upstream** into vLLM, vLLM-Omni, SGLang, NVIDIA Dynamo, Kubernetes and VS Code
 
 [LinkedIn](https://www.linkedin.com/in/akshatanand1999) · [Twitter](https://twitter.com/hey_akshat) · [Email](mailto:akshatanandmallik@gmail.com)
 
@@ -16,7 +16,7 @@ SDE2 @ Barclays · backend, distributed systems, AI agents, Inference
 
 **About me**
 
-Akshat Anand is a Software Development Engineer II (SDE2) at Barclays, based in India, working on backend systems, distributed systems, LLM inference and AI agents. He has 20 pull requests merged into open-source projects including vLLM, SGLang, NVIDIA Dynamo, Kubernetes and VS Code.
+Akshat Anand is a Software Development Engineer II (SDE2) at Barclays, based in India, working on backend systems, distributed systems, LLM inference and AI agents. He has 21 pull requests merged into open-source projects including vLLM, SGLang, NVIDIA Dynamo, Kubernetes and VS Code.
 
 ```yaml
 name: Akshat Anand
@@ -44,7 +44,7 @@ skills:
   ai_agents: [RAG, LangGraph, Tool calling, Multi-agent systems]
   cloud_devops: [AWS, Docker, Kubernetes, GitHub Actions, Cloudflare Workers]
 open_source:
-  merged_prs: 20
+  merged_prs: 21
   projects:
     - vLLM
     - vLLM-Omni
@@ -59,6 +59,7 @@ open_source:
 
 **Recent contributions · 2026**
 
+- ✅ **vLLM**: warn at startup when secondary-tier offloaded KV is tied to the parallel config ([#62566](https://github.com/vllm-project/vllm/pull/62566))
 - ✅ **NVIDIA Dynamo**: keep multimodal routing opt-in so default wheel builds stop compiling the image stack ([#18199](https://github.com/ai-dynamo/dynamo/pull/18199))
 - ✅ **NVIDIA Dynamo**: wait for the KAI queue controller before creating Dynamo queues in the Helm chart ([#16723](https://github.com/ai-dynamo/dynamo/pull/16723))
 - ✅ **VS Code**: release `code -w -g file:line` once the file's editor closes ([#344740](https://github.com/microsoft/vscode/pull/344740))
