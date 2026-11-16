@@ -6,7 +6,7 @@
 
 SDE2 @ Barclays · backend, distributed systems, AI agents, Inference
 
-**22 PRs merged upstream** into vLLM, vLLM-Omni, SGLang, NVIDIA Dynamo, Kubernetes and VS Code
+**23 PRs merged upstream** into vLLM, vLLM-Omni, SGLang, NVIDIA Dynamo, Kubernetes, VS Code and Grafana
 
 [LinkedIn](https://www.linkedin.com/in/akshatanand1999) · [Twitter](https://twitter.com/hey_akshat) · [Email](mailto:akshatanandmallik@gmail.com)
 
