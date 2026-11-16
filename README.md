@@ -59,6 +59,7 @@ open_source:
 
 **Recent contributions · 2026**
 
+- ✅ **Grafana**: fix Cloud Monitoring datasource crash for file-provisioned PromQL queries ([#104](https://github.com/grafana/grafana-cloudmonitoring-datasource/pull/104))
 - ✅ **vLLM**: stop the Olmo3 tool parser dropping streamed text that starts with `<` ([#65936](https://github.com/vllm-project/vllm/pull/65936))
 - ✅ **vLLM**: warn at startup when secondary-tier offloaded KV is tied to the parallel config ([#62566](https://github.com/vllm-project/vllm/pull/62566))
 - ✅ **NVIDIA Dynamo**: keep multimodal routing opt-in so default wheel builds stop compiling the image stack ([#18199](https://github.com/ai-dynamo/dynamo/pull/18199))
