@@ -6,7 +6,7 @@
 
 SDE2 @ Barclays · backend, distributed systems, AI agents, Inference
 
-**23 PRs merged upstream** into vLLM, vLLM-Omni, SGLang, NVIDIA Dynamo, Kubernetes, VS Code and Grafana
+**25 PRs merged upstream** into vLLM, vLLM-Omni, SGLang, NVIDIA Dynamo, Kubernetes, VS Code and Grafana
 
 [LinkedIn](https://www.linkedin.com/in/akshatanand1999) · [Twitter](https://twitter.com/hey_akshat) · [Email](mailto:akshatanandmallik@gmail.com)
 
@@ -16,7 +16,7 @@ SDE2 @ Barclays · backend, distributed systems, AI agents, Inference
 
 **About me**
 
-Akshat Anand is a Software Development Engineer II (SDE2) at Barclays, based in India, working on backend systems, distributed systems, LLM inference and AI agents. He has 22 pull requests merged into open-source projects including vLLM, SGLang, NVIDIA Dynamo, Kubernetes and VS Code.
+Akshat Anand is a Software Development Engineer II (SDE2) at Barclays, based in India, working on backend systems, distributed systems, LLM inference and AI agents. He has 25 pull requests merged into open-source projects including vLLM, SGLang, NVIDIA Dynamo, Kubernetes and VS Code.
 
 ```yaml
 name: Akshat Anand
@@ -44,7 +44,7 @@ skills:
   ai_agents: [RAG, LangGraph, Tool calling, Multi-agent systems]
   cloud_devops: [AWS, Docker, Kubernetes, GitHub Actions, Cloudflare Workers]
 open_source:
-  merged_prs: 22
+  merged_prs: 25
   projects:
     - vLLM
     - vLLM-Omni
@@ -52,6 +52,7 @@ open_source:
     - NVIDIA Dynamo
     - Kubernetes
     - VS Code
+    - Grafana
     - Playwright
     - Appwrite
     - Apple Pkl
@@ -59,6 +60,8 @@ open_source:
 
 **Recent contributions · 2026**
 
+- ✅ **SGLang**: apply repetition, frequency and presence penalties under DFLASH speculative decoding ([#47020](https://github.com/sgl-project/sglang/pull/47020))
+- ✅ **NVIDIA Dynamo**: stop counting a held GLM-4.7 tool call as reasoning tokens in usage ([#18656](https://github.com/ai-dynamo/dynamo/pull/18656))
 - ✅ **Grafana**: fix Cloud Monitoring datasource crash for file-provisioned PromQL queries ([#104](https://github.com/grafana/grafana-cloudmonitoring-datasource/pull/104))
 - ✅ **vLLM**: stop the Olmo3 tool parser dropping streamed text that starts with `<` ([#65936](https://github.com/vllm-project/vllm/pull/65936))
 - ✅ **vLLM**: warn at startup when secondary-tier offloaded KV is tied to the parallel config ([#62566](https://github.com/vllm-project/vllm/pull/62566))
